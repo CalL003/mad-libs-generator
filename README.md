@@ -1,2 +1,2 @@
 # mad-libs-generator
-1st python project 
+this is my 1st python project.
